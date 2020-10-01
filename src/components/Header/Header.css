@@ -1,0 +1,30 @@
+.header {
+  text-align: center;
+  color: #fff;
+  font-size: 2.0rem;
+  letter-spacing: 1px;
+  margin: 8rem 0 3rem 0;
+  text-shadow: 0 4px 3px rgba(0, 0, 0, 0.4), 0 8px 13px rgba(0, 0, 0, 0.1),
+    0 16px 24px rgba(0, 0, 0, 0.4);
+
+}
+
+.quote-icon-left {
+  position: relative;
+  top: -20px;
+  right: 6px;
+}
+#left {
+  color: #fff;
+  font-size: 2.0rem;
+}
+
+.quote-icon-right {
+  position: relative;
+  top: -20px;
+  left: 6px;
+}
+#right{
+  color: #fff;
+  font-size: 2.0rem;
+}
