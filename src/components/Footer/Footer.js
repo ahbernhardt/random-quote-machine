@@ -11,7 +11,7 @@ const Footer = () => (
         <span> <span> </span>| </span>
         <span>
             Repo Link:{' '}
-            <a className="footer-link" href="https://github.com/anguyen0208/fcc-random-quote-machine" target="_blank" rel="noopener noreferrer">
+            <a className="footer-link" href="https://github.com/anguyen0208/random-quote-machine" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-github" />
             </a>
         </span>
