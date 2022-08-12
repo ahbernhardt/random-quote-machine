@@ -2,11 +2,11 @@
 
 Build a Random Quote Machine. This is the first project of [FreeCodeCamp Front End Libraries Certification](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine). A Random quote machine built with React.
 
-Check for [Live Demo](https://anguyen0208.github.io/random-quote-machine/)
+Check for [Live Demo](https://ahbernhardt.github.io/random-quote-machine/)
 
 ## Screenshot
 
-![screenshot](https://github.com/anguyen0208/Project-Screenshots/blob/master/FCC-Random-Quote.png)
+![screenshot](https://github.com/ahbernhardt/Project-Screenshots/blob/master/FCC-Random-Quote.png)
 
 ## Objective
 
